@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--缩写     英文        中文-->
+    <!--BK      Black       黑色-->
+    <!--WH      White       白色-->
+    <!--RD      Red         红色-->
+    <!--BU      Blue        蓝色-->
+    <!--GN      Green       绿色-->
+    <!--YE      Yellow      黄色-->
+    <!--CR      Clear       透明-->
+
+    <color name="wh">#ffffff</color>
+    <color name="wh_a">#f5f5f5</color>
+    <color name="wh_b">#dcdcdc</color>
+    <color name="wh_c">#eeeeee</color>
+
+    <color name="bk">#000000</color>
+    <color name="bk_a">#3a3a3a</color>
+    <color name="bk_b">#585858</color>
+    <color name="bk_c">#9d9d9d</color>
+
+    <color name="rd_a">#cd0000</color>
+    <color name="rd_b">#fa6c6c</color>
+    <color name="rd_c">#ffc3c5</color>
+
+    <color name="bu_a">#0067cc</color>
+    <color name="bu_b">#7abcfc</color>
+
+    <color name="gn_a">#61b623</color>
+    <color name="gn_b">#009a43</color>
+
+    <color name="ye_a">#ffbd20</color>
+
+    <color name="cr">#00000000</color>
+    <color name="cr_a">#bb000000</color>
+    <color name="cr_b">#77000000</color>
+    <color name="cr_c">#55000000</color>
+
+    <color name="crd_a">#55cd0000</color>
+    <color name="crd_b">#7ffa6c6c</color>
+
+    <color name="cbk_a">#a8333333</color>
+
+    <color name="cwh_a">#33ffffff</color>
+
+    <color name="colorPrimary">#F44336</color>
+    <color name="colorPrimaryDark">#D32F2F</color>
+    <color name="colorAccent">#536DFE</color>
+    <color name="bg_app">#F1F1F1</color>
+
+    <color name="tab_unselect">#c9c9c9</color>
+    <color name="bg_btn">#dadada</color>
+</resources>
