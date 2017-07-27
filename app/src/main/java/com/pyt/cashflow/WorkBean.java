@@ -97,12 +97,16 @@ public class WorkBean {
         this.fastInvestment = fastInvestment;
     }
 
+    /**
+     * 梦想
+     */
     public static class DreamBean {
         /**
          * title : Buy a Forest
          * price : 250000
          * v1 : 1
          */
+
 
         private String title;
         private String price;
@@ -132,7 +136,9 @@ public class WorkBean {
             this.v1 = v1;
         }
     }
-
+    /**
+     * 股票、基金、存单
+     */
     public static class StockBean {
         /**
          * title : 2BIG
@@ -143,9 +149,9 @@ public class WorkBean {
          */
 
         private String title;
-        private String dividend;
+        private String dividend;//分红
         private String v1;
-        private String interest;
+        private String interest;//利息
         private String v2;
 
         public String getTitle() {
@@ -189,6 +195,9 @@ public class WorkBean {
         }
     }
 
+    /**
+     * 房地产
+     */
     public static class RealEstateBean {
         /**
          * title : Condo 2Br/1Ba
@@ -202,7 +211,7 @@ public class WorkBean {
 
         private String title;
         private String order;
-        private String repair;
+        private String repair;//修理
         private String v1;
         private String v2;
         private String inflation;
@@ -264,7 +273,9 @@ public class WorkBean {
             this.units = units;
         }
     }
-
+    /**
+     * 商业
+     */
     public static class BusinessBean {
         /**
          * title : Auto Dealer
@@ -310,7 +321,9 @@ public class WorkBean {
             this.v2 = v2;
         }
     }
-
+    /**
+     * 黄金
+     */
     public static class GoldBean {
         /**
          * title : Spanish Gold
@@ -366,6 +379,9 @@ public class WorkBean {
             this.v2 = v2;
         }
     }
+    /**
+     * 消费
+     */
 
     public static class DoodadBean {
         /**
@@ -422,7 +438,9 @@ public class WorkBean {
             this.v1 = v1;
         }
     }
-
+    /**
+     * 快速路业务
+     */
     public static class FastBusinessBean {
         /**
          * title : 60 Unit Apartment Building
@@ -478,7 +496,9 @@ public class WorkBean {
             this.v2 = v2;
         }
     }
-
+    /**
+     * 快速路投资
+     */
     public static class FastInvestmentBean {
         /**
          * title : Bio-Tech Co. IPO
